@@ -1,6 +1,6 @@
 <H1 align="center">Hi there 👋, I'm Surya Narayanan H</H1>
 
-<H3 align="center">Strategic Performer | Tech Enthusiast | AI/ML & Web Development | Django Expert</H3>
+<H3 align="center">Strategic Performer | Tech Enthusiast | AI/DS & Backend Development | Django Expert | </H3>
 
 
 ---
@@ -10,7 +10,7 @@
   🔭 About Me
 </H2>
 
-- 🚀 I specialize in **Python**, **Django**, and **AI/ML** technologies.
+- 🚀 I specialize in **Python**, **Django**, and **AI/DS** technologies.
 - 📫 Reach out to me at [suryanarayanan110803@gmail.com](mailto:suryanarayanan110803@gmail.com).
 - 🌱 I’m always learning and growing with new projects!
 
@@ -31,7 +31,6 @@
 ### **Cloud Services:**
 <p align="center">
   <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white" alt="AWS" /></a>
-  <a href="https://firebase.google.com/"><img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black" alt="Firebase" /></a>
 </p>
 
 ### **Tools & Libraries:**
