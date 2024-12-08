@@ -1,6 +1,6 @@
 <H1 align="center">Hi there 👋, I'm Surya Narayanan H</H1>
 
-<H3 align="center">Strategic Performer | Tech Enthusiast | AI/DS & Backend Development | Django Expert | </H3>
+<H3 align="center">Strategic Performer | Tech Enthusiast | AI/DS | Django Expert | </H3>
 
 
 ---
